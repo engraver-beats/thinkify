@@ -134,14 +134,7 @@ const Login = () => {
         </p>
       </div>
 
-      <div className="alert alert-info" style={{ marginTop: '20px' }}>
-        <strong>Demo Credentials:</strong><br />
-        Email: admin@demo.com<br />
-        Password: admin123<br />
-        <small style={{ marginTop: '8px', display: 'block' }}>
-          This demo account will be created automatically on first login attempt.
-        </small>
-      </div>
+
     </div>
   );
 };
