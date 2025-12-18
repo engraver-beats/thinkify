@@ -63,11 +63,7 @@ A comprehensive React-based task management application with user authentication
 ## 🎯 Quick Start
 
 ### Demo Account
-Use these credentials to explore the application:
-- **Email**: admin@demo.com
-- **Password**: admin123
-
-The demo account includes sample tasks to help you understand the features.
+A demo account is available for testing the application with sample tasks and features.
 
 ### Creating Your Own Account
 1. Click "Sign up here" on the login page
@@ -193,4 +189,3 @@ If you encounter any issues or have questions, please create an issue in the pro
 ---
 
 **Enjoy managing your tasks efficiently! 🎉**
-
